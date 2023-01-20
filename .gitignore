@@ -1,0 +1,10 @@
+.vs
+packages
+bin
+Debug
+Release
+obj
+*.csproj.user
+*.pubxml.user
+dotnet-tools.json
+Migrations
